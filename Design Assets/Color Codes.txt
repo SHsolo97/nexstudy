@@ -1,0 +1,4 @@
+Vibrant Orange	- #f9a11d
+Orange Cream	- #fdfada
+White		- #ffffff
+Font black	- #000000
